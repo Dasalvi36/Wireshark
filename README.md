@@ -1,7 +1,7 @@
 # Analyze Network Traffic using Wireshark
               
 **Step 1: Launch Wireshark:**
- 
+ images/Picture2.jpg
 **Step 2: Capture Interfaces:**
 Click on ‘Capture’ -> ‘Options’ or the gear icon in the toolbar to see a list of available network interfaces.
 Identify and select the interface through which you want to capture network traffic (e.g., Wi-Fi).
