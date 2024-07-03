@@ -2,7 +2,7 @@
               
 **Step 1: Launch Wireshark:**
 
- ![Screenshot1](/images/Picture2.jpg)
+ ![Screenshot1](/images/SS1.JPG)
  
 **Step 2: Capture Interfaces:**
 Click on ‘Capture’ -> ‘Options’ or the gear icon in the toolbar to see a list of available network interfaces.
