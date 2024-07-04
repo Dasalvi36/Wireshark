@@ -90,7 +90,7 @@ Allows you to visualize traffic patterns over time. Customize the graph to highl
  
 ![Screenshot16](/images/SS16.JPG)
 
-![Screenshot17](/images/SS17.JPG).
+![Screenshot17](/images/SS17.JPG)
 
 **Expert Information:**
    Go to ‘Analyze’ -> ‘Expert Information’.
